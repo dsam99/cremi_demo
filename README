@@ -1,0 +1,3 @@
+This repository is a demo for the CREMI Dataset for the Brown Datathon 2019.
+
+The demo.py is the python file that loads in the dataset and sets up a simple feed-forward neural network in Keras. The jupyter notebook walks through the setup process of preprocessing the data.
